@@ -5,6 +5,9 @@ ShaderlabVSCode is a Visual Studio Code extension for Unity Shaderlab progamming
 
 <a href='http://www.amlovey.com/'>__Documents__</a> | <a href='http://forum.unity3d.com/threads/403471/'>__Forum__ </a> | <a href='mailto:amlovey@qq.com'>__Email__</a> |<a href='https://www.assetstore.unity3d.com/#!/content/94653?aid=1011lGoJ'>__Asset Store__</a>
 
+## Video Preview
+<iframe width="640" height="351" src="https://www.youtube.com/embed/d9ZNNEcZOOs" frameborder="0" allowfullscreen></iframe>
+
 ## Installation
 
 ### Running On Mac
