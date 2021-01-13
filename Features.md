@@ -20,6 +20,14 @@ Press `CTRL + SHIFT + o` on Windows or `CMD + SHIFT + o` on macOS.
 
 ![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/symbol-provider.jpg)
 
+## Go To Definition
+
+`This feature is available in 1.2.4 +`
+
+Press `F12` to trigger `Go To Definition` command Or Click the `Go To Definition` in right click context menu 
+
+![](https://www.amloveycom/shaderlabvscode/assets/Go_To_Definition.gif)
+
 ## Code Snippets
 
 Below are the snippets:
