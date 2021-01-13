@@ -1,4 +1,4 @@
-### Running On Mac
+# Running On Mac
 
 1. Import ShaderlabVSCode unity package into Unity Editor.
 2. [Download Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=534106) for macOS.
@@ -9,7 +9,7 @@
 7. Restart Visual Studio Code
 
 
-### Running On Windows
+# Running On Windows
 
 1. Import ShaderlabVSCode unity package into Unity Editor.
 2. Download the [Visual Studio Code installer](https://go.microsoft.com/fwlink/?LinkID=534107) for Windows. 

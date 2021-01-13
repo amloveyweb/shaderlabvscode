@@ -1,26 +1,26 @@
-### Syntax Highlighting
+## Syntax Highlighting
 
 ![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/highlighting.jpg)
 
-### Code Completion and Basic Intellisense
+## Code Completion and Basic Intellisense
 
 ![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/completion.jpg)
 
-### Hover Information
+## Hover Information
 
 ![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/hover.jpg)
 
-### Signature Help
+## Signature Help
 
 ![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/signature.jpg)
 
-### Document Symbols
+## Document Symbols
 
 Press `CTRL + SHIFT + o` on Windows or `CMD + SHIFT + o` on macOS.
 
 ![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/symbol-provider.jpg)
 
-### Code Snippets
+## Code Snippets
 
 Below are the snippets:
 
@@ -56,17 +56,17 @@ Below are the snippets:
 | tags         | Tags { ... }                             |
 | tagstt       | Tags with both of RenderType and Queue is Transparent |
 
-### Auto Format
+## Auto Format
 
-#### Format Document
+### Format Document
 
 Two ways to format document:
 
 1. Right click the editor are and select __Format Document__ menu in context menu  
 2. Open __Command Palette__ and type "Format Document", and then press `ENTER` key on keyborad.
 
-### Formatting Options
-#### Place Open Brace On New Line
+## Formatting Options
+### Place Open Brace On New Line
 
 In Settings, there is an item under `ShaderlabVScode` section named `Formatting: Style`, check or uncheck the `Place open brace on new line` will toggle differnt format style.
 
@@ -87,33 +87,32 @@ float test()
 }
 ```
 
-### Misc Features
+## Misc Features
 
-#### 1. Region Mark
+### 1. Region Mark
 
 There are two ways:
 
 - `//#region` and `//#endregion`
 - `//region` and `//#endregion`
 
-### Features in Unity Editor 
+## Features in Unity Editor 
 
-####1.  Download Visual Studio Code
+### 1.  Download Visual Studio Code
 
 Jump to url which can download latest version of Visual Studio Code
 
 > Selection: __Tools__ -> __ShaderlabVSCode__ -> __Download Visual Studio Code__ 
 
-####2.  Update Data of ShaderlabVSCode Extension
+### 2.  Update Data of ShaderlabVSCode Extension
 
 Update data of completion, hover information or intelisense from web
 
 > Selection: __Tools__ -> __ShaderlabVSCode__ -> __Update Data of VSCode Extension__
 
-####3. Report an Issue
+### 3. Report an Issue
 
 Two ways to report an issue:
 
 1. Send Email to <amlovey@qq.com>
-
 2. Open a issue on <https://github.com/amloveyweb/amloveyweb.github.io/issues>

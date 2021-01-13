@@ -1,3 +1,6 @@
+CHANGE LOG
+---
+
 ## V1.2.4
 
 - Fix some methods disappear from code completion bug
