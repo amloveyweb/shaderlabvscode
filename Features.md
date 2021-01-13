@@ -26,7 +26,7 @@ Press `CTRL + SHIFT + o` on Windows or `CMD + SHIFT + o` on macOS.
 
 Press `F12` to trigger `Go To Definition` command Or Click the `Go To Definition` in right click context menu 
 
-![](https://www.amloveycom/shaderlabvscode/assets/GoToDefinition.gif)
+![](https://www.amlovey.com/shaderlabvscode/assets/GoToDefinition.gif)
 
 ## Code Snippets
 
