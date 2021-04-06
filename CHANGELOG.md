@@ -1,3 +1,29 @@
+## V1.2.7 
+
+[Thanks to Jaosn Ma and Nixon]
+
+- Better HLSL Supports that add more keywords and builtin methods
+- Better folding strategy that base on syntax instead of base on indentation
+- Better macros formatting. We can change different styles in `Macros Alignment Modes` settings
+- Add `Format Selection` feature
+- Improve syntax highlighting for Monokai pro
+- Fix bugs that StructuredBuffer show as Buffer type in hover information
+
+## V1.2.6
+
+- Improve syntax highlighting for types and methods
+- Add new version notification
+- Fix bug that code completion for operation `?:` is not correctly
+- Fix bug that F12 cannot jump in included library of SRP
+
+## V1.2.5
+
+- Add more code snippets:
+  - `hlp`: HLSLPROGRAM...ENDHLSL block
+  - `glp`: GLSLPROGRAM...ENCGLSL block
+  - `inc`: #include ""
+  - `incpkg`: #include "Pakcages"
+
 ## V1.2.4
 
 - Fix some methods disappear from code completion bug

@@ -66,15 +66,23 @@ Below are the snippets:
 
 ## Auto Format
 
-### Format Document
+#### Format Document
 
 Two ways to format document:
 
-1. Right click the editor are and select __Format Document__ menu in context menu  
+1. Right click the editor area and select __Format Document__ menu in context menu  
 2. Open __Command Palette__ and type "Format Document", and then press `ENTER` key on keyborad.
 
-## Formatting Options
-### Place Open Brace On New Line
+![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/formatdocument.gif)
+
+#### Format Selection
+
+Two ways to format selection:
+
+1. Right click the editor area and select __Format Selection__ menu in context menu  
+2. Open __Command Palette__ and type "Format Selection", and then press `ENTER` key on keyborad
+
+#### Place Open Brace On New Line
 
 In Settings, there is an item under `ShaderlabVScode` section named `Formatting: Style`, check or uncheck the `Place open brace on new line` will toggle differnt format style.
 
@@ -92,6 +100,102 @@ Below is place open brace on new line
 float test()
 {
     
+}
+```
+
+### Macros Alignment Modes
+
+In Settings, there is an item under `ShaderlabVScode` section named `Formatting: Style`, change the `Macros alignment modes` to set formatting mode for macros.
+
+#### Indentation with hierachy
+
+```csharp
+Subshader 
+{
+    Pass
+    {
+        CGPROGRAM
+        void MacroTest()
+        {
+            float c;
+            #if 0
+                c = 0;
+                #if 1
+                    c = 1;
+                #endif
+            #endif
+        }
+        ENDCG
+    }
+}
+```
+
+### Indentation without hierachy
+
+```csharp
+Subshader 
+{
+    Pass
+    {
+        CGPROGRAM
+        void MacroTest()
+        {
+            float c;
+         #if 0
+                c = 0;
+         #if 1
+                c = 1;
+         #endif
+         #endif
+        }
+        ENDCG
+    }
+}
+```
+
+#### No Indentation but with hierachy
+
+```csharp
+Subshader 
+{
+    Pass
+    {
+        CGPROGRAM
+        void MacroTest()
+        {
+            float c;
+#if 0
+            c = 0;
+    #if 1
+            c = 1;
+    #endif
+#endif
+        }
+        ENDCG
+    }
+}
+```
+
+### No Indentation and without hierachy
+
+```csharp
+Subshader 
+{
+    Pass
+    {
+        CGPROGRAM
+        void MacroTest()
+        {
+            float c;
+#if 0
+            c = 0;
+#if 1
+            c = 1;
+#endif
+#endif
+        }
+        ENDCG
+    }
 }
 ```
 
