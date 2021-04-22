@@ -1,3 +1,10 @@
+## V1.2.8
+
+- Improve Code Completion that supports multiple level included libraries.
+- Fix `Go To Definition` don't works in for loop
+- Fix some minor bugs
+
+
 ## V1.2.7 
 
 [Thanks to Jaosn Ma and Nixon]
