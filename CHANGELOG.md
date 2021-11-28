@@ -1,11 +1,47 @@
+## V1.3.3
+
+- Add local packages support
+- Add vfxshader support (Experimental)
+- Improve shader script template workflow
+- Fix Go To Definition does not work for struct in generic
+- Fix some formatter bugs
+- Fix double click shader cannot open VSCode sometimes in Unity 2020+
+
+## V1.3.2
+
+- Add `shader_feature` and `multiple_compile` keywords
+- Add `UnityPBSLighting.cginc` as default linked library
+- Add ability to create HLSL shader via `Create->Shader->HLSL Shader` menu in Unity Editor (Restart Unity Editor is required)
+- Optimize VSCode finding algorithm to support doulble click shader file will open VSCode even it installed non default path on Windows
+- Fix `- -1` will format as `-- 1` bug
+
+## V1.3.1
+
+- Improve supports for shaders inside Packages folders
+- Improve formatting for marcos methods
+
+## V1.3.0
+
+- Add supports for shader inside Packages folder
+- Auto format supports switch..case now
+- Auto format supports config tags style now
+- Improve syntax highlighting
+- Fix bug that fields of struct are missing in code completion when struct has macros
+
+## V1.2.9
+
+- Auto Format supports Editor Config now
+- Improve syntax highlighting for operators
+- Fix Code Completion is not correct for fields of struct with methods
+- Fix some minor bugs
+
 ## V1.2.8
 
 - Improve Code Completion that supports multiple level included libraries.
 - Fix `Go To Definition` don't works in for loop
 - Fix some minor bugs
 
-
-## V1.2.7 
+## V1.2.7
 
 [Thanks to Jaosn Ma and Nixon]
 
@@ -92,7 +128,7 @@ Support Linux
 - Format Document
     - Improve format for marcos
 
-- Syntax Highlighting 
+- Syntax Highlighting
     - Add highlight for `#ifdef` and `#ifndef`
 
 - Add document symbols support, press `CTRL + SHIFT + o` on Windows or `CMD + SHIFT + o` on macOS to open it.
@@ -152,13 +188,13 @@ Support Linux
 ## V1.0.3
 - Intellisense
     - Fix bug variable broken by semicolon
-    
+
 - Editor
     - Improve compability
 
 ## V1.0.2b3
 - Auto Format:
-    - Add format document feature 
+    - Add format document feature
 - Intellisense:
     - supports builtin types, like half, fixed and float
     - supports completion of fields of types
