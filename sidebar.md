@@ -1,8 +1,21 @@
 
-- Getting started
+- GETTING STARTED
 
   - [Introduction](README.md)
   - [Installation](Installation.md)
-  - [Features](Features.md)
 
-- [Changelog](CHANGELOG.md)
+- FEATURES
+  - [Syntax Highlighting](Features.md#syntax-highlighting)
+  - [Code Completion](Features.md#code-completion-and-basic-intellisense)
+  - [Hover Information](Features.md#hover-information)
+  - [Signature Help](Features.md#signature-help)
+  - [Document Symbols](Features.md#document-symbols)
+  - [Go To Definition](Features.md#go-to-definition)
+  - [Code Snippets](Features.md#code-snippets)
+  - [Auto Format](Features.md#auto-format)
+  - [Region Mark](Features.md#1-region-mark)
+  - [Features in Unity Editor](Features.md#features-in-unity-editor)
+
+- SUPPORT
+  - [Report Issue](reportissue.md)
+  - [ChangeLog](CHANGELOG.md)

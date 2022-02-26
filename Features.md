@@ -221,10 +221,3 @@ Jump to url which can download latest version of Visual Studio Code
 Update data of completion, hover information or intelisense from web
 
 > Selection: __Tools__ -> __ShaderlabVSCode__ -> __Update Data of VSCode Extension__
-
-### 3. Report an Issue
-
-Two ways to report an issue:
-
-1. Send Email to <amlovey@qq.com>
-2. Open a issue on <https://github.com/amloveyweb/amloveyweb.github.io/issues>

@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://wugenqiang.js.org/src/css/iconfont.css">
 </head>
 <body>
   <div data-app id="main">Please wait...</div>
@@ -15,13 +16,15 @@
     window.$docsify = {
       el: '#main',
       loadSidebar: "sidebar.md",
-      subMaxLevel: 2,
       loadNavbar: "navbar.md",
       ga: 'UA-81897785-4',
+      name: "ShaderlabVSCode",
+      auto2top: true,
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code@2"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
 </body>
 </html>
