@@ -1,3 +1,10 @@
+## V1.3.4
+
+- Add method overload supports (Experimental)
+- Improve Signature Help that supports call out in mutiple lines code
+- Fix formatter will add new spaces after document formattion in block comments
+- Fix EditorConfig not works for new version of EditorConfig for VSCode Extension
+
 ## V1.3.3
 
 - Add local packages support
