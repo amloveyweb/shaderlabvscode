@@ -1,3 +1,5 @@
+# Installation
+
 ## Running On Mac
 
 1. Import ShaderlabVSCode unity package into Unity Editor.

@@ -1,8 +1,8 @@
 
 - GETTING STARTED
 
-  - [Introduction](README.md)
-  - [Installation](Installation.md)
+  - [Introduction](README.md#shaderlabvscode)
+  - [Installation](Installation.md#installation)
 
 - FEATURES
   - [Syntax Highlighting](Features.md#syntax-highlighting)
@@ -17,5 +17,5 @@
   - [Features in Unity Editor](Features.md#features-in-unity-editor)
 
 - SUPPORT
-  - [Report Issue](reportissue.md)
-  - [ChangeLog](CHANGELOG.md)
+  - [Report Issue](reportissue.md#report-an-issue)
+  - [ChangeLog](CHANGELOG.md#change-logs)
