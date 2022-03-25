@@ -17,5 +17,5 @@
   - [Features in Unity Editor](Features.md#features-in-unity-editor)
 
 - SUPPORT
-  - [Report Issue](reportissue.md#report-an-issue)
+  - [Contact](contact.md)
   - [ChangeLog](CHANGELOG.md#change-logs)
