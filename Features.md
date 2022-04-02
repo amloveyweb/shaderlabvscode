@@ -1,24 +1,24 @@
 ## Syntax Highlighting
 
-![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/highlighting.jpg)
+![](./assets/Syntax-Highlighting.png)
 
-## Code Completion and Basic Intellisense
+## Code Completion
 
-![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/completion.jpg)
+![](./assets/Code-Completion.png)
 
 ## Hover Information
 
-![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/hover.jpg)
+![](./assets/Hover-Information.png)
 
 ## Signature Help
 
-![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/signature.jpg)
+![](./assets/Signature-Help.png)
 
 ## Document Symbols
 
 Press `CTRL + SHIFT + o` on Windows or `CMD + SHIFT + o` on macOS.
 
-![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/symbol-provider.jpg)
+![](./assets/Document-Symbols.png)
 
 ## Go To Definition
 
@@ -26,9 +26,11 @@ Press `CTRL + SHIFT + o` on Windows or `CMD + SHIFT + o` on macOS.
 
 Press `F12` to trigger `Go To Definition` command Or Click the `Go To Definition` in right click context menu 
 
-![](https://www.amlovey.com/shaderlabvscode/assets/GoToDefinition.gif)
+![](./assets/GoToDefinition.gif)
 
 ## Code Snippets
+
+![](./assets/Snippets.png)
 
 Below are the snippets:
 
@@ -73,7 +75,7 @@ Two ways to format document:
 1. Right click the editor area and select __Format Document__ menu in context menu  
 2. Open __Command Palette__ and type "Format Document", and then press `ENTER` key on keyborad.
 
-![](https://raw.githubusercontent.com/amloveyweb/amloveyweb.github.io/master/assets/images/shaderlabvscode/formatdocument.gif)
+![](./assets/AutoFormat.gif)
 
 #### Format Selection
 
@@ -198,6 +200,22 @@ Subshader
     }
 }
 ```
+
+### Doc Comment
+
+Doc Comments are the comments start with `///`. for eaxmple:
+
+```csharp
+/// Return max value of a and b
+float Max(float a, float b) 
+{
+
+}
+```
+
+**Hover Information** and **Signature Help** will display doc comments as documentation.
+
+**NOTE:** Doc comment supports Markdown
 
 ## Misc Features
 

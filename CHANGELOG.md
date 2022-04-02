@@ -1,5 +1,20 @@
 # CHANGE LOGS
 
+### Version 1.4.0
+
+**NEW:**
+- Add **Doc Comment** feature. Doc comments are the comments start with `///`. **Hover Information** and **Signature Help** will display doc comments as documentation
+- Add methods of structs suppport in Code Completions
+
+**IMPROVED:**
+- Signature Help will display current signature with same parameters number 
+- Document Symbol supports static methods
+
+**FIXED**
+- Fix signature help is broken for custom methods in same shader file
+- Fix variables is missing from completion list when its type defined in active document
+- Fix document symbol is not working when there are invalid path in include files line
+
 ### Version 1.3.5
 
 **FIXED:**

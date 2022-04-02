@@ -13,6 +13,7 @@
   - [Go To Definition](Features.md#go-to-definition)
   - [Code Snippets](Features.md#code-snippets)
   - [Auto Format](Features.md#auto-format)
+  - [Doc Comment](Features.md#doc-comment)
   - [Region Mark](Features.md#1-region-mark)
   - [Features in Unity Editor](Features.md#features-in-unity-editor)
 
