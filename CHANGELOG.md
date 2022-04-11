@@ -1,5 +1,19 @@
 # CHANGE LOGS
 
+### Version 1.4.2
+
+- **HOT FIX**: Fix Code completion are not works on windows sometimes 
+
+### Version 1.4.1
+
+**IMPROVE:**
+- Suppports Local packages which are binplaced under project root path
+
+**FIXED:**
+- Fix hover on variables from parameter will show methods doc comment
+- Fix Go To Definition cann not find location of symbols when mulitple files included in some cases
+- Fix double click shader file in packages may open blank file
+
 ### Version 1.4.0
 
 **NEW:**
