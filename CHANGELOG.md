@@ -1,5 +1,16 @@
 # CHANGE LOGS
 
+### Version 1.4.3
+
+**IMPROVE:**
+- Improve accuracy and speed of Go To Definition
+- Improve accuracy of Code Completion
+- Improve accuracy of Document Symbol
+
+**FIXED:**
+- Fix typo of 'multi_compile' in completion list
+- Fix nested included shader library is not working 
+
 ### Version 1.4.2
 
 - **HOT FIX**: Fix Code completion are not works on windows sometimes 
