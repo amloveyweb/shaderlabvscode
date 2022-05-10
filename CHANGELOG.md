@@ -1,5 +1,15 @@
 # CHANGE LOGS
 
+### Version 1.4.5
+
+**IMPROVE**
+- Turn off time cost features when openning generated or compiled shader from Unity Editor. The features can be turn on/off in settings
+
+**FIXED**
+- Fix fields of types are not correct in some case
+- Fix `?:` format is not correct in some case
+- Fix completion for `RequireOptions` tag
+
 ### Version 1.4.3
 
 **IMPROVE:**
