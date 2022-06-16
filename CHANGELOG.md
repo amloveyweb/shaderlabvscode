@@ -1,5 +1,14 @@
 # CHANGE LOGS
 
+### Version 1.4.6
+
+**IMPROVE**
+- Improve property drawer completions
+- Add more keywords in Code Completion
+
+**FIXED**
+- Fix include files in HLSLINCLUDE/CGINCLUDE block are ignored
+
 ### Version 1.4.5
 
 **IMPROVE**
