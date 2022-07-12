@@ -1,5 +1,16 @@
 # CHANGE LOGS
 
+### Version 1.4.7
+
+**NEW:**
+- BetterShaders Supports [Expiremental]
+    - Add Syntax Highlighting support
+    - Add Outline support
+- More keywords for Stencil operation values
+
+**IMPROVE:**
+- Improve performance via caching system
+
 ### Version 1.4.6
 
 **IMPROVE**
