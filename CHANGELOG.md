@@ -1,5 +1,9 @@
 # CHANGE LOGS
 
+### Version 1.5.0
+
+**IMPROVE**: Fix possible memory leak issue, **RECOMMEND EVERYONE TO UPDATE TO THIS VERSION**
+
 ### Version 1.4.7
 
 **NEW:**
