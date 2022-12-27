@@ -1,5 +1,20 @@
 # CHANGE LOGS
 
+### Version 1.5.1
+
+**NEW:**
+- Add support for methods in structs for Signature Help and hover information
+- Add support for methods of Shader Model 5 Objects [Expiremental]
+- Add keyword `globallycoherent`
+
+**IMPROVE:**
+- Unsigned integer will highlight as same as other number type now
+- Fix method definition highlight is not correct when the return type is struct
+
+**FIX:**
+- Fix Code completion items will duplicated or missing when structs have overloaded methods
+- Fix auto fill result for document commment is not correct when break line by `Enter` key
+
 ### Version 1.5.0
 
 **IMPROVE**: Fix possible memory leak issue, **RECOMMEND EVERYONE TO UPDATE TO THIS VERSION**
