@@ -1,5 +1,7 @@
 * [<span class="iconfont icon-book3"> </span>Home](https://www.amlovey.com)
 
+* [<spa> calss"iconfont icon-zuanshi"/>Omni Shader](https://omnishader.amlovey.com)
+
 * <span class="iconfont icon-yingyongguanli"> </span>Unity Assets
   * [ShaderlabVS Pro](https://www.amlovey.com/shaderlabvs/)
   * [ShaderlabVSCode](https://www.amlovey.com/shaderlabvscode/)

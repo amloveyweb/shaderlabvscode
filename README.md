@@ -1,6 +1,9 @@
 # ShaderlabVSCode 
 
-> ShaderlabVSCode is upgraded to Omni Shader Tools For Unity, see more details on <https://omnishader.amlovey.com>
+> ShaderlabVSCode is upgraded to Omni Shader Tools For Unity, see more details on <https://omnishader.amlovey.com>. 
+> 
+> Users who purchased after June 1, 2024, can get a voucher code for a free license. See more details here: <https://github.com/OmniShader/ISSUES/issues/10>
+
 
 ShaderlabVSCode is a Visual Studio Code extension for Unity Shaderlab progamming.
 
